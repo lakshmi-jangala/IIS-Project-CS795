@@ -10,21 +10,32 @@ This repository contains the code and documentation for a project that aims to c
 
 
 # Introduction
+
 Web archiving is crucial for preserving digital content and ensuring its accessibility for future generations. This project focuses on web archiving techniques: Wayback Machine, ArchiveBox, Archave.today and Perma.cc, and evaluates their effectiveness in preserving web content. Additionally, the project examines changes in website accessibility between archived and current versions using AI-Inspector and IBM Accessibility Checker.
 
 
 
 
 # Web Archiving Techniques
+
 Wayback Machine: The Wayback Machine archives web pages and provides access to historical versions.
+
+
 ArchiveBox: ArchiveBox is a self-hosted web archiving tool used for personal or organizational archiving purposes.
+
+
 Archave.today: Archive.today is a web archiving service that allows users to capture and preserve snapshots of web pages for future reference.
+
+
 Perma.cc: Perma.cc is a service for creating permanent citations to web sources.
 
 
 
 # Accessibility Evaluation Tools
+
 AI-Inspector: AI-Inspector is a tool for evaluating website accessibility using AI-powered analysis.
+
+
 IBM Accessibility Checker: IBM Accessibility Checker is a tool provided by IBM for assessing website accessibility.
 
 
